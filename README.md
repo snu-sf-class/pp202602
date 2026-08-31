@@ -38,4 +38,8 @@ foo(10)
 ````
 - Or, you can use [GitHub Gist](https://gist.github.com/).
 
+
+### Tools
+See [the settings manual](https://github.com/snu-sf-class/pp202602/blob/main/settings/README.md).
+
 ### Honor Code: _DO NOT CHEAT_
