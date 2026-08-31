@@ -1,0 +1,41 @@
+# Programming Principles, SNU 4190.210, 2026 Spring
+
+## Logistics
+- Instructor: Prof. [Chung-Kil Hur](https://sf.snu.ac.kr/gil.hur)
+- TA: [Jaewoo Kim](https://sf.snu.ac.kr/jaewoo.kim.2/)
+  - Office: Bldg 302 Rm 315
+  - Email address: pp@sf.snu.ac.kr
+- Lecture:
+  - Place: Bldg 302 Rm 107
+  - Time: Tue/Thu 17:00~18:15
+
+### Grading
+TBA
+
+### Attendance
+We will not use electronic attendance check in this class.
+If the professor does not specifically check attendance during class, everyone will be marked as present.
+
+### Announcements
+- Check announcements in [Issues](https://github.com/snu-sf-class/pp202602/issues)
+
+#### Exam
+TBA
+
+## Course Description
+### Lecture Slides
+TBA
+
+### Communication
+
+- Ask questions in [Issues](https://github.com/snu-sf-class/pp202602/issues).
+- When you post a piece of source code, use ["fenced code blocks"](https://help.github.com/articles/creating-and-highlighting-code-blocks/)
+````markdown
+```scala
+def foo(x:Int) = x + 3
+foo(10)
+```
+````
+- Or, you can use [GitHub Gist](https://gist.github.com/).
+
+### Honor Code: _DO NOT CHEAT_
