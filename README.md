@@ -24,7 +24,7 @@ TBA
 
 ## Course Description
 ### Lecture Slides
-TBA
+See [slides](https://github.com/snu-sf-class/pp202602/blob/main/lecture-slides).
 
 ### Communication
 
@@ -41,5 +41,9 @@ foo(10)
 
 ### Tools
 See [the settings manual](https://github.com/snu-sf-class/pp202602/blob/main/settings/README.md).
+
+### Reference
+* [Fall 2025 class materials](https://github.com/snu-sf-class/pp202502)
+
 
 ### Honor Code: _DO NOT CHEAT_
