@@ -3,7 +3,7 @@
 /// =========================================
 /// If you fix this file, your code will not be compiled.
 
-package pp202402.assign4a
+package pp202602.assign4a
 
 object Data {  
   trait Iter[I[_],A]: 

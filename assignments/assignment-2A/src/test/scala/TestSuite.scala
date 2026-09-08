@@ -2,11 +2,11 @@
 // https://scalameta.org/munit/docs/getting-started.html
 import scala.annotation.tailrec
 
-import pp202502.assign2a.Assignment2A.{
+import pp202602.assign2a.Assignment2A.{
   lookup, insert, 
   optimize
 }
-import pp202502.assign2a.{IOption, BST, Expr}
+import pp202602.assign2a.{IOption, BST, Expr}
 
 class TestSuite extends munit.FunSuite {
   import IOption.*

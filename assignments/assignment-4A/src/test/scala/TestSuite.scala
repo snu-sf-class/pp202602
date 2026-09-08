@@ -1,9 +1,9 @@
 import scala.annotation.tailrec
 
-import pp202402.assign4a.Assignment4A.{
+import pp202602.assign4a.Assignment4A.{
   fibo, getN, toList
 }
-import pp202402.assign4a.{
+import pp202602.assign4a.{
   Data, Lazylist
 }
 

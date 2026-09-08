@@ -1,8 +1,8 @@
-package pp202402.assign3b
+package pp202602.assign3b
 
 import scala.reflect.ClassTag
-import pp202402.assign3b.Data._
-import pp202402.assign3b.ViewController._
+import pp202602.assign3b.Data._
+import pp202602.assign3b.ViewController._
 import scala.annotation.tailrec
 
 object Assignment3B:
@@ -29,9 +29,8 @@ object Assignment3B:
    * 
    * You are free to implement more functions inside the classes if needed.
    * 
-   * There are no TODOs on other files, but you can check them to understand the game engine.
-   * We will only extract your `Main.scala` to grade your assignment.
-   * Thus, please do not make changes on other files.
+   * There are no TODOs in other files, but you can check them to understand the game engine.
+   * Do not make changes in other files.
    */
   
   /** Omok game.

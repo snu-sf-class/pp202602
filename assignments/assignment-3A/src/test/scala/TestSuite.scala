@@ -3,10 +3,10 @@
 import scala.annotation.tailrec
 import scala.math._
 
-import pp202402.assign3a.Assignment3A.{
+import pp202602.assign3a.Assignment3A.{
   decSqrt
 }
-import pp202402.assign3a.{
+import pp202602.assign3a.{
   Data
 }
 

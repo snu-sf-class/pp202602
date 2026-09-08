@@ -3,7 +3,7 @@
 /// =========================================
 /// If you fix this file, your code will not be compiled.
 
-package pp202402.assign4b
+package pp202602.assign4b
 import scala.language.implicitConversions
 
 object Data:

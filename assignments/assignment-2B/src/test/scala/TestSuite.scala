@@ -2,10 +2,10 @@
 // https://scalameta.org/munit/docs/getting-started.html
 import scala.annotation.tailrec
 
-import pp202502.assign2b.Assignment2B.{
+import pp202602.assign2b.Assignment2B.{
   solveSudoku
 }
-import pp202502.assign2b.{IOption, SudokuWfChecker}
+import pp202602.assign2b.{IOption, SudokuWfChecker}
 
 class TestSuite extends munit.FunSuite {
   import IOption.*

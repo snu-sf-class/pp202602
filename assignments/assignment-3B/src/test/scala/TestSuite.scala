@@ -1,9 +1,9 @@
-import pp202402.assign3b.Assignment3B._
-import pp202402.assign3b.Data._
+import pp202602.assign3b.Assignment3B._
+import pp202602.assign3b.Data._
 import scala.reflect.ClassTag
-import pp202402.assign3b.UI
-import pp202402.assign3b.ViewController._
-import pp202402.assign3b.file_prefix
+import pp202602.assign3b.UI
+import pp202602.assign3b.ViewController._
+import pp202602.assign3b.file_prefix
 
 // For more information on writing tests, see
 // https://scalameta.org/munit/docs/getting-started.html

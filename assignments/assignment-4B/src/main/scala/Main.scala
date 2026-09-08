@@ -1,4 +1,4 @@
-package pp202402.assign4b
+package pp202602.assign4b
 
 import scala.annotation.tailrec
 import scala.util.control.TailCalls._
@@ -8,10 +8,8 @@ import scala.util.control.TailCalls._
   * Implement given functions, which are currently left blank. (???) **WARNING:
   * Please read the restrictions below carefully.**
   *
-  * If you do not follow these, **your submission will not be graded.**
-  *
   *   - Do not use the keyword `var`. Use `val` and `def` instead.
-  *   - Do not use any library functions or data structures like `LazyListist`,
+  *   - Do not use any library functions or data structures like `LazyList`,
   *     `Array`, `Range` (`1 to n`, `1 until n` ...), `fold`, `map`, `reduce` or
   *     etc.
   *   - If you want to use a data structure, create new one instead of using the
@@ -20,8 +18,6 @@ import scala.util.control.TailCalls._
   *     `scala.util.control.TailCalls._` from the library.
   *   - Do not use any looping syntax of Scala (`for`, `while`, `do-while`,
   *     `yield`, ..
-  *
-  * Again, your score will be zero if you do not follow these rules.
   *
   * Note that these rules will be gradually relaxed through the next
   * assignments.
@@ -69,7 +65,7 @@ object Assignment4B:
     *   - Among the normal priority a task, a task that are added
     *     first should be processed first.
     *   Returning a log from the task:
-    *   - You should return a log that represents an item that a task should process at the moment. (**THIS IS USED FOR GRADING**)
+    *   - You should return a log that represents an item that a task should process at the moment.
     *     Do the logging, then make a process.
     *   - If there are no a task to process when `processTask` is called, return `EMPTY_LOG` defined in `Data.scala`.
     *   Re-enqueueing a task:
@@ -83,8 +79,7 @@ object Assignment4B:
   // TODO: Implement `addTask`.
   def addTask[Q, I, A](uQ: Q, nQ: Q, task: I)
     (implicit QUEUE: Queue[Q, I], TASK: Task[I, A]): (Q, Q) = ???
-    
+
   // TODO: Implement `processTask`.
   def processTask[Q, I, A](uQ: Q, nQ: Q)
     (implicit QUEUE: Queue[Q, I], TASK: Task[I, A]): (String, Q, Q) = ???
-    

@@ -10,7 +10,8 @@
   - Time: Tue/Thu 17:00~18:15
 
 ### Grading
-TBA
+Assignments 1 to 4 will not be evaluated this semester.
+Other grading details are TBA.
 
 ### Attendance
 We will not use electronic attendance check in this class.

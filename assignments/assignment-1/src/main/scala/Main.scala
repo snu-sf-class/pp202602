@@ -1,4 +1,4 @@
-package pp202502.assign1
+package pp202602.assign1
 
 import scala.annotation.tailrec
 import scala.util.control.TailCalls._
@@ -7,8 +7,7 @@ import scala.util.control.TailCalls._
   *
   * Implement the given functions, which are currently left blank. (???)
   *
-  * **WARNING:Please read the restrictions below carefully.**
-  * If you do not follow these, **your submission will not be graded.**
+  * Follow the restrictions below.
   *
   *   - Do not use the keyword `var`. Use `val` and `def` instead.
   *   - Do not use any library functions or data structures like `List`,
@@ -18,18 +17,13 @@ import scala.util.control.TailCalls._
   *   - Do not use any looping syntax of Scala (`for`, `while`, `do-while`,
   *     `yield`, etc.).
   *
-  * Again, your score will be zero if you do not follow these rules.
-  *
   * Note that these rules will be gradually relaxed in future assignments.
   *
   * For problems except problem 1-1, some test cases will require 
   * optimizations (i.e., large inputs) including tail call optimizations 
   * and the others will not (i.e., small inputs).
   * 
-  * So, you will get partial point if you submit a correct program
-  * without proper optimizations.
-  * 
-  * See /src/test/scala/TestSuite.scala for some test cases (grading will be done based on more testcases). 
+  * See `src/test/scala/TestSuite.scala` for some test cases.
   */
 object Assignment1:
   /** Problem 1: Iteration of a Function.
@@ -108,4 +102,3 @@ object Assignment1:
   class NoExistException(val arg: Long) extends Exception
 
   def primePair(n: Long): (Long, Long) = ???
-

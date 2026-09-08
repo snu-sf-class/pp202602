@@ -3,7 +3,7 @@
 /// =========================================
 /// If you fix this file, your code will not be compiled.
 
-package pp202402.assign3a
+package pp202602.assign3a
 
 object Data {
   

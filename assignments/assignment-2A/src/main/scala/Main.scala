@@ -1,14 +1,12 @@
-package pp202502.assign2a
+package pp202602.assign2a
 
 import scala.annotation.tailrec
 import scala.util.control.TailCalls._
 
 /** Principles of Programming: Assignment 02A.
   *
-  * Implement given functions, which are currently left blank. (???) **WARNING:
-  * Please read the restrictions below carefully.**
-  *
-  * If you do not follow these, **your submission will not be graded.**
+  * Implement given functions, which are currently left blank. (???)
+  * Follow the restrictions below.
   *
   *   - Do not use the keyword `var`. Use `val` and `def` instead.
   *   - Do not use any library functions or data structures like `List`,
@@ -20,8 +18,6 @@ import scala.util.control.TailCalls._
   *     `scala.util.control.TailCalls._` from the library.
   *   - Do not use any looping syntax of Scala (`for`, `while`, `do-while`,
   *     `yield`, ...)
-  *
-  * Again, your score will be zero if you do not follow these rules.
   *
   * Note that these rules will be gradually relaxed through the next
   * assignments.

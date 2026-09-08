@@ -1,7 +1,7 @@
 
-package pp202402.assign3b
+package pp202602.assign3b
 
-import pp202402.assign3b.Data._
+import pp202602.assign3b.Data._
 import scala.reflect.ClassTag
 
 /**

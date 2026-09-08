@@ -4,7 +4,7 @@
 
 Implement the functions in `src/main/scala/Main.scala`, which are currently left blank as `???`
 
-**WARNING: For the pedagological purpose, we highly recommend to follow the restrctions below.**
+**For pedagogical purposes, we highly recommend following the restrictions below.**
 
 - Do not use the keyword `var`. Use `val` and `def` instead.
 - Do not use any library functions or data structures like `List`, `Array`, `Range` (`1 to n`, `1 until n` ...), `fold`, `map`, `reduce` or etc.
@@ -16,7 +16,7 @@ assignments.
 
 For problems except problem 1-1, some test cases will require optimizations (i.e., large inputs) including tail call optimizations and the others will not (i.e., small inputs).
 
-See /src/test/scala/TestSuite.scala for some test cases (grading will be done based on more testcases). 
+See `src/test/scala/TestSuite.scala` for some test cases.
 
 ## How to test your code
 

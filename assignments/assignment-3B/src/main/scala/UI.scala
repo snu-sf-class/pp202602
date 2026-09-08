@@ -3,14 +3,14 @@
 /// =========================================
 /// If you fix this file, your code will not be compiled.
 
-package pp202402.assign3b
+package pp202602.assign3b
 
-import pp202402.assign3b.Data._
+import pp202602.assign3b.Data._
 import scala.reflect.ClassTag
-import pp202402.assign3b.Assignment3B._
+import pp202602.assign3b.Assignment3B._
 import scala.io.StdIn
 import java.io.PrintWriter
-import pp202402.assign3b.ViewController.SudokuViewController
+import pp202602.assign3b.ViewController.SudokuViewController
 
 val file_prefix = "src/test/scala"
 

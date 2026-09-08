@@ -1,14 +1,12 @@
-package pp202402.assign4a
+package pp202602.assign4a
 
 import scala.annotation.tailrec
 import scala.util.control.TailCalls._
 
 /** Principles of Programming: Assignment 4A.
   *
-  * Implement given functions, which are currently left blank. (???) **WARNING:
-  * Please read the restrictions below carefully.**
-  *
-  * If you do not follow these, **your submission will not be graded.**
+  * Implement given functions, which are currently left blank. (???)
+  * Follow the restrictions below.
   *
   *   - Do not use the keyword `var`. Use `val` and `def` instead.
   *   - Do not use any library functions or data structures like `LazyList`,
@@ -22,12 +20,9 @@ import scala.util.control.TailCalls._
   *   - Do not use any looping syntax of Scala (`for`, `while`, `do-while`,
   *     `yield`, ...)
   *
-  * Again, your score will be zero if you do not follow these rules.
-  *
   * We do not require tail-recursion explicitly for this assignment.
   * 
-  * All testcases for grading will include both instances of problem 1-1 and functions of problem 1-2. 
-  * That means, you may get 0 points for this assignment if you only solve problem 1-1 (or 1-2).
+  * The test cases require both functions to be correctly implemented.
   *
   * Timeout: 30 sec.
   */
@@ -72,7 +67,7 @@ object Assignment4A:
   * Implement 3 functions below.
   * 
   * You don't need to worry about stack overflow or Long type overflow. 
-  * All test cases for grading will be small enough. 
+  * All test cases are small enough.
   *
   */
   

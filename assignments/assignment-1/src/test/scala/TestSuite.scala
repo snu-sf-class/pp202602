@@ -1,6 +1,6 @@
 // For more information on writing tests, see
 // https://scalameta.org/munit/docs/getting-started.html
-import pp202502.assign1.Assignment1.*
+import pp202602.assign1.Assignment1.*
 
 class TestSuite extends munit.FunSuite {
   test("problem 1-1") {

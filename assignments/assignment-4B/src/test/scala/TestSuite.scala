@@ -3,13 +3,13 @@
 import scala.annotation.tailrec
 import scala.math._
 
-import pp202402.assign4b.Assignment4B._
+import pp202602.assign4b.Assignment4B._
 
 class TestSuite extends munit.FunSuite {
-  import pp202402.assign4b.Data._
-  import pp202402.assign4b.TypeClass._
-  import pp202402.assign4b.Examples.given
-  import pp202402.assign4b.Examples._
+  import pp202602.assign4b.Data._
+  import pp202602.assign4b.TypeClass._
+  import pp202602.assign4b.Examples.given
+  import pp202602.assign4b.Examples._
 
   test("a small task set") {
     // Create an empty queue
@@ -67,8 +67,7 @@ class TestSuite extends munit.FunSuite {
     assertEquals(processTask(uQ9, nQ9), (EMPTY_LOG, uQ9, nQ9))
   }
 
-  // NOTE: during the actual grading, we will use the similar size of the task set as below.
-  // However, we may use tasks with different types with different `calculatePriority` method.
+  // Your code should work with tasks with different types with their own `calculatePriority` method.
   test("a large task set") {
     val (uQ, nQ) = (1 to 100).toList.foldLeft((empty[IList[Int], Int], empty[IList[Int], Int])) {
       case ((uQ, nQ), task) => addTask(uQ, nQ, task)

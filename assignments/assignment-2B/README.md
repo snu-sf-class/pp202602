@@ -4,7 +4,7 @@
 
 Implement the functions in `src/main/scala/Main.scala`, which are currently left blank as `???`
 
-**WARNING: For the pedagological purpose, we highly recommend to follow the restrctions below.**
+**For pedagogical purposes, we highly recommend following the restrictions below.**
 
 - **DO NOT FIX Data.scala and SudokuWfChecker.scala**
 - Do not use the keyword `var`. Use `val` and `def` instead.

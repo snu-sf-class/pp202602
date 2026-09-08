@@ -6,7 +6,7 @@
  * because it extensively uses the library functions.
  */
 
-package pp202502.assign2b
+package pp202602.assign2b
 
 object SudokuWfChecker:
   def isFilled(board: Array[Int]): Boolean = 

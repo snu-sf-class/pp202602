@@ -4,9 +4,9 @@
 
 Implement the functions in `src/main/scala/Main.scala`, which are currently left blank as `???`
 
-**WARNING: For the pedagological purpose, we highly recommend to follow the restrctions below.**
+**For pedagogical purposes, we highly recommend following the restrictions below.**
 
-- **DO NOT FIX Data.Scala**
+- **DO NOT FIX Data.scala**
 - Do not use the keyword `var`. Use `val` and `def` instead.
 - Do not use any library functions or data structures like `List`, `Array`, `Range` (`1 to n`, `1 until n` ...), `fold`, `map`, `reduce` or etc.
 - You can only use tuples, `scala.annotation.tailrec`, and `scala.util.control.TailCalls._` from the library.
@@ -28,14 +28,3 @@ sbt test # compile and run TestSuite.scala
 If `sbt test` does not work, then your code is wrong.
 
 Fix your code until it works, or send a question to the TA.
-
-## How to Submit
-
-- For all assignments, we will test your code only with the given `Main.scala` files in `src/main/scala` directory. **All the additional files you've created will be lost!!**
-- We will check git logs of the main branch, and grade the latest commit before the due date.
-
-```bash
-git add src
-git commit -m 'Write some meaningful message'
-git push
-```

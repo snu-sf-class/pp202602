@@ -3,7 +3,7 @@
 /// =========================================
 /// If you fix this file, your code will not be compiled.
 
-package pp202502.assign2b
+package pp202602.assign2b
 
 /** Note: enum is new feature of Scala 3 which alters `sealed abstract class`
   * to define case classes and abstract data types.

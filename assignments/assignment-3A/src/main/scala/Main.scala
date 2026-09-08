@@ -1,17 +1,15 @@
-package pp202402.assign3a
+package pp202602.assign3a
 
 import scala.annotation.tailrec
 import scala.util.control.TailCalls._
 
 /** Principles of Programming: Assignment 3A.
   *
-  * Implement given functions, which are currently left blank. (???) **WARNING:
-  * Please read the restrictions below carefully.**
-  *
-  * If you do not follow these, **your submission will not be graded.**
+  * Implement given functions, which are currently left blank. (???)
+  * Follow the restrictions below.
   *
   *   - Do not use the keyword `var`. Use `val` and `def` instead.
-  *   - Do not use any library functions or data structures like `LazyListist`,
+  *   - Do not use any library functions or data structures like `LazyList`,
   *     `Array`, `Range` (`1 to n`, `1 until n` ...), `fold`, `map`, `reduce` or
   *     etc.
   *   - If you want to use a data structure, create new one instead of using the
@@ -20,8 +18,6 @@ import scala.util.control.TailCalls._
   *     `scala.util.control.TailCalls._` from the library.
   *   - Do not use any looping syntax of Scala (`for`, `while`, `do-while`,
   *     `yield`, ...)
-  *
-  * Again, your score will be zero if you do not follow these rules.
   *
   * Note that these rules will be gradually relaxed through the next
   * assignments.
