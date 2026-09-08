@@ -1,4 +1,4 @@
-# Programming Principles, SNU 4190.210, 2026 Spring
+# Programming Principles, SNU 4190.210, 2026 Fall
 
 ## Logistics
 - Instructor: Prof. [Chung-Kil Hur](https://sf.snu.ac.kr/gil.hur)
