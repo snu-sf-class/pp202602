@@ -10,8 +10,10 @@
   - Time: Tue/Thu 17:00~18:15
 
 ### Grading
-Assignments 1 to 4 will not be evaluated this semester.
-Other grading details are TBA.
+Grading will be based on the midterm and final exams.
+
+Assignments will not be evaluated.
+
 
 ### Attendance
 We will not use electronic attendance check in this class.
@@ -20,8 +22,9 @@ If the professor does not specifically check attendance during class, everyone w
 ### Announcements
 - Check announcements in [Issues](https://github.com/snu-sf-class/pp202602/issues)
 
-#### Exam
-TBA
+### Exam
+- [Midterm](https://github.com/snu-sf-class/pp202602/issues/2): Saturday, November 7 at 2:00 PM
+- Final: TBA
 
 ## Course Description
 ### Lecture Slides
